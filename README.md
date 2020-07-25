@@ -1,6 +1,8 @@
-# Backend do Teste da Lyncas
+# Projeto desenvolvido como teste da Lyncas
 
-## Como rodar o projeto
+## Backend
+
+### Como rodar o projeto
 
 Faça um clone do repositório
 
@@ -35,7 +37,7 @@ $ npm start
 
 
 
-# Frontend do Teste da Lyncas
+## Frontend
 
 Para iniciar o projeto execute os comandos abaixo
 
