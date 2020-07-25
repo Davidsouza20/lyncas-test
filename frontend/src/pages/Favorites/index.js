@@ -67,7 +67,7 @@ function App() {
             <button 
               className="btn btn-danger button" 
               onClick={e => handleDeleteFronFavorite(e, book._id, i)}
-            ><i className="fa fa-trash"></i></button>
+            >Remover dos Favoritos</button>
 
           </div>
         </div>
