@@ -1,0 +1,32 @@
+.card {
+  width: 15rem;
+  margin: 15px;
+  box-shadow: 4px 4px 15px 0 rgba(36,37,38,.04);
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.search {
+  width: 70%;
+}
+
+.card-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}

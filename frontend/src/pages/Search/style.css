@@ -1,0 +1,13 @@
+.card {
+  width: 15rem;
+  margin: 15px;
+  box-shadow: 4px 4px 15px 0 rgba(36,37,38,.04);
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.search {
+  width: 70%;
+}
