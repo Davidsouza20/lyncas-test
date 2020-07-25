@@ -1,5 +1,7 @@
 # Projeto desenvolvido como teste da Lyncas
 
+Ao final tem as telas da aplicação
+
 ## Backend
 
 ### Como rodar o projeto
@@ -47,4 +49,10 @@ $ npm install
 $ npm start
 ```
 
+### Telas da aplicação
 
+![](https://raw.githubusercontent.com/Davidsouza20/lyncas-test/master/1.png)
+
+![](https://raw.githubusercontent.com/Davidsouza20/lyncas-test/master/2.png)
+
+![](https://raw.githubusercontent.com/Davidsouza20/lyncas-test/master/3.png)
