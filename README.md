@@ -2,6 +2,12 @@
 
 Ao final tem as telas da aplicação
 
+## Tecnologias utilizadas 
+
+-Backend: Node.js com Express
+-Frontend: React.js
+-Banco de dados: MongoDb
+
 ## Backend
 
 ### Como rodar o projeto
