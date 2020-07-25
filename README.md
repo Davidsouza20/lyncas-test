@@ -11,7 +11,7 @@ $ git clone https://github.com/davidsouza20/lyncas-test.git
 Navegue até a pasta backend 
 
 ```sh
-$ cd lyncas-test
+$ cd lyncas-test/backend
 ```
 
 Renomeie o arquivo .env_example para .env e informe uma Url de conexão com o banco de dados MongoDb local
@@ -40,7 +40,7 @@ $ npm start
 Para iniciar o projeto execute os comandos abaixo
 
 ```sh
-$ cd frontend
+$ cd lyncas-test/frontend
 $ npm install
 $ npm start
 ```
